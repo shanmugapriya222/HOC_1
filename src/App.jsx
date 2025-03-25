@@ -1,9 +1,9 @@
+// src/App.jsx
+import React from "react";
+import DestinationContainer from "./components/DestinationContainer";
+
 function App() {
-  return (
-    <div>
-      {/* Your code here */}
-    </div>
-  )
+  return <DestinationContainer />;
 }
 
-export default App
+export default App;
